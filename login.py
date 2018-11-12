@@ -8,3 +8,6 @@ kuisu dengji
 
 
 第二个变量
+
+
+k = 20
